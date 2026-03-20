@@ -3,7 +3,7 @@
 <h3 align="center">Data Scientist & Analyst based in the Washington D.C. Metro Area</h3>
 <p align="center">
   <i>MS in Data Science — George Washington University</i> <br>
-  <i>Open to full-time Data Analyst, Data Scientist, and BI Analyst roles</i>
+  <i>Open to full-time Data Analyst, Data Scientist, Data Engineer and BI Analyst roles</i>
 </p>
 
 ---
