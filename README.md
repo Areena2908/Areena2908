@@ -3,7 +3,7 @@
 <h3 align="center">Data Scientist & Analyst based in the Washington D.C. Metro Area</h3>
 <p align="center">
   <i>MS in Data Science — George Washington University (GPA 3.6)</i> <br>
-  <i>Open to full-time Data Analyst, Data Scientist, and BI Analyst roles (STEM OPT EAD)</i>
+  <i>Open to full-time Data Analyst, Data Scientist, and BI Analyst roles</i>
 </p>
 
 ---
@@ -23,7 +23,6 @@
 
 **ML & AI:**  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white)
-*LSTM · GRU · FNN*
 
 **Data Engineering:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) 
@@ -71,4 +70,4 @@
 ## 📫 Let's Connect!
 - <img src="https://simpleicons.org/icons/linkedin.svg" width="15" /> **LinkedIn:** [linkedin.com/in/syed-areena-818763167](https://www.linkedin.com/in/syed-areena-818763167)
 - 📧 **Email:** [syedareena29@gmail.com](mailto:syedareena29@gmail.com)
-- 📍 **Location:** Arlington, VA (Open to DC Metro Area & Remote)
+- 📍 **Location:** Arlington, VA
