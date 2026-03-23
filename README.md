@@ -67,6 +67,6 @@
 ---
 
 ## 📫 Let's Connect!
-- <img src="https://simpleicons.org/icons/linkedin.svg" width="15" /> **LinkedIn:** [linkedin.com/in/syed-areena-818763167](https://www.linkedin.com/in/syed-areena-818763167)
+- <img src="https://simpleicons.org/icons/linkedin.svg" width="15" /> **LinkedIn:** [linkedin.com/in/syed-areena-818763167](https://www.linkedin.com/in/areena-syed-818763167)
 - 📧 **Email:** [syedareena29@gmail.com](mailto:syedareena29@gmail.com)
 - 📍 **Location:** Arlington, VA
