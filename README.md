@@ -78,7 +78,7 @@ I am a Data Analyst and Business Intelligence Specialist based in the Washington
       <b>Stack:</b> <code>Python</code> <code>scikit-learn</code> <code>SHAP</code> <code>Pandas</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🎓 GWU Data Science Capstones</h4>
+      <h4>🎓 Team & Coursework Projects</h4>
       <p><i>Large-scale EDA and predictive modeling</i></p>
       <ul>
         <li><b>LAPD Crime Data Analysis:</b> Tableau visualizations and policy recommendations based on hypothesis testing.</li>
