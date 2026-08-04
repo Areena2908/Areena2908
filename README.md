@@ -15,7 +15,7 @@ I am a Data Analyst and Business Intelligence Specialist. Armed with an MS in Da
 
 * **🔭 Currently focusing on:** Urban analytics, Civic Tech, and predictive business modeling.
 * **💡 Superpowers:** Designing metrics that matter (KPIs), building layered data models (Bronze/Silver/Gold), and explaining the *why* behind the numbers.
-* **📫 Reach me at:** [syedareena29@gmail.com](mailto:syedareena29@gmail.com) | [LinkedIn](https://www.linkedin.com/in/syed-areena-818763167/)
+* **📫 Reach me at:** [syedareena29@gmail.com](mailto:syedareena29@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fnu-areena-818763167/)
 
 <br>
 
