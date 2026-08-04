@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me
-I am a Data Analyst and Business Intelligence Specialist based in the Washington, D.C. Metro Area. Armed with an MS in Data Science from GWU, I specialize in transforming messy, real-world data into crystal-clear dashboards and automated pipelines that empower non-technical teams to make critical business decisions.
+I am a Data Analyst and Business Intelligence Specialist. Armed with an MS in Data Science from GWU, I specialize in transforming messy, real-world data into crystal-clear dashboards and automated pipelines that empower non-technical teams to make critical business decisions.
 
 * **🔭 Currently focusing on:** Urban analytics, Civic Tech, and predictive business modeling.
 * **💡 Superpowers:** Designing metrics that matter (KPIs), building layered data models (Bronze/Silver/Gold), and explaining the *why* behind the numbers.
