@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%20Areena&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Supply%20Chain%20%7C%20Operations%20Analytics%20Specialist&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%20Areena&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20Machine%20Learning%20Enthusiast%20%7C%20Python%20%7C%20AI%20%7C%20Building%20Data-Driven%20Projects&descAlignY=55&descAlign=50" />
 </div>
 
 <h3 align="center">
   <a href="https://github.com/Areena2908">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Supply+Chain+%26+Operations+Analytics;SQL+%7C+Power+BI+%7C+SAP+MM;Procurement+%7C+Demand+Forecasting+%7C+Supplier+Risk;Data-Driven+Insights+%26+Decision+Making" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Data+Science+%26+Machine+Learning;Python+%7C+AI+%7C+Data+Analytics;Building+Data-Driven+Projects" alt="Typing SVG" />
   </a>
 </h3>
 
