@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%20Areena&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20ML%20Enthusiast%20%7C%20Python%2C%20AI&descAlignY=55&descAlign=50" />
-</div>
+<h1 align="center">Areena</h1>
 
 <h3 align="center">
   <a href="https://github.com/Areena2908">
