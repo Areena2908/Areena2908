@@ -11,32 +11,15 @@
 ---
 
 ### 🚀 About Me
-I am a Data Analyst and Business Intelligence Specialist. Armed with an MS in Data Science from GWU, I specialize in transforming messy, real-world data into crystal-clear dashboards and automated pipelines that empower non-technical teams to make critical business decisions.
+I am a Supply Chain Analyst with 6+ years of experience in supply chain, procurement, logistics, and operations analytics. I specialize in transforming supply chain data into clear insights, dashboards, and actionable solutions that help teams improve performance and make better business decisions.
 
-* **🔭 Currently focusing on:** Urban analytics, Civic Tech, and predictive business modeling.
-* **💡 Superpowers:** Designing metrics that matter (KPIs), building layered data models (Bronze/Silver/Gold), and explaining the *why* behind the numbers.
+* **🔭 Currently focusing on:** Supply Chain Analytics, Procurement, Demand Forecasting, and Operations Analytics.
+* **💡 Superpowers:** DBuilding KPI dashboards, analyzing supplier performance and risk, optimizing inventory, and turning complex data into actionable insights.
 * **📫 Reach me at:** [syedareena29@gmail.com](mailto:syedareena29@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fnu-areena-818763167/)
 
 <br>
 
-<div align="center">
-  <h3>🛠️ Technical Arsenal</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-    <br>
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-    <br>
-    <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-    <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  </p>
-</div>
+<div align="center"> <h3>🛠️ Technical Arsenal</h3> <p> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SAP_MM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP MM" /> <br> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /> <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel VBA" /> <br> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> </p> </div>
 
 <br>
 
