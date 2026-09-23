@@ -14,8 +14,8 @@
 I am a Supply Chain Analyst with 6+ years of experience in supply chain, procurement, logistics, and operations analytics. I specialize in transforming supply chain data into clear insights, dashboards, and actionable solutions that help teams improve performance and make better business decisions.
 
 * **🔭 Currently focusing on:** Supply Chain Analytics, Procurement, Demand Forecasting, and Operations Analytics.
-* **💡 Superpowers:** DBuilding KPI dashboards, analyzing supplier performance and risk, optimizing inventory, and turning complex data into actionable insights.
-* **📫 Reach me at:** [syedareena29@gmail.com](mailto:syedareena29@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fnu-areena-818763167/)
+* **💡 Superpowers:** Building KPI dashboards, analyzing supplier performance and risk, optimizing inventory, and turning complex data into actionable insights.
+* **📫 Reach me at:** [fnuareena@itjobinbox.com](mailto:fnuareena@itjobinbox.com) | [LinkedIn](https://www.linkedin.com/in/fnu-areena-818763167/)
 
 <br>
 
