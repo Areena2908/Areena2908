@@ -1,4 +1,6 @@
-<h1 align="center">Areena</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%20Areena&fontSize=80&animation=fadeIn&fontAlignY=35" />
+</div>
 
 <h3 align="center">
   <a href="https://github.com/Areena2908">
