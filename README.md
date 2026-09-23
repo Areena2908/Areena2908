@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://github.com/Areena2908">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Supply+Chain+%26+Operations+Analytics;SQL+%7C+Power+BI+%7C+SAP+MM;Procurement+%7C+Demand+Forecasting+%7C+Supplier+Risk;Data-Driven+Insights+%26+Decision+Making" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Data+Science+%26+Machine+Learning+Enthusiast;Python,+AI;Building+Data-Driven+Projects" alt="Typing SVG" />
   </a>
 </h3>
 
